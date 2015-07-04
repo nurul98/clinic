@@ -1,0 +1,21 @@
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\bin\clinic.dll
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\bin\clinic.pdb
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.dll
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.pdb
+C:\Users\schwarzkopf\Desktop\clinic\clinic\bin\clinic.dll
+C:\Users\schwarzkopf\Desktop\clinic\clinic\bin\clinic.pdb
+C:\Users\schwarzkopf\Desktop\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\schwarzkopf\Desktop\clinic\clinic\obj\Debug\clinic.dll
+C:\Users\schwarzkopf\Desktop\clinic\clinic\obj\Debug\clinic.pdb
+D:\new\clinic\clinic\bin\clinic.dll
+D:\new\clinic\clinic\bin\clinic.pdb
+D:\new\clinic\clinic\obj\Debug\ResolveAssemblyReference.cache
+D:\new\clinic\clinic\obj\Debug\clinic.dll
+D:\new\clinic\clinic\obj\Debug\clinic.pdb
+C:\LoVeYiLa98\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.csprojResolveAssemblyReference.cache
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\bin\clinic.dll.config
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\bin\clinic.dll
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\bin\clinic.pdb
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.csprojResolveAssemblyReference.cache
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.dll
+D:\eDuCaTion\CoMPuTer ScienCe (SofTWaRe eNGiNeeRinG)\Final Year Project\clinic\clinic\obj\Debug\clinic.pdb

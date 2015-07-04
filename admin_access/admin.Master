@@ -1,0 +1,129 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="clinic.admin_access.admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>CCBS | Wanie KMZ</title>
+      <link rel="stylesheet" href="style.css" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+   <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <!-- Master Container: Centered and 700px wide -->
+<div id="container">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+
+    <!-- The topmost bar -->
+    <div id="topbar">
+        We help you to see your doctor</div>
+    <!-- End of top bar -->
+
+    <!-- This holds the main header -->
+    <div id="headerwrapper">
+
+        <!-- This is the site title -->
+        <h1>CCBS</h1>
+        <div>
+            <!-- This is the site slogan -->
+            <h6>
+                Clinic Consultation Booking System</h6>
+            <br />
+        </div>
+	</div>
+	<!-- End of headerwrapper -->
+
+    <!-- This hold the navigation tabs -->
+    <div id="tabholder">
+        <div id="tabs8">
+            <ul>
+                <!-- CSS Tabs -->
+                <li><a href="homeadmin.aspx"><span>Home</span></a></li>
+                <li><a href="patient.aspx"><span>Patient</span></a></li>
+                <li><a href="doctorlist.aspx"><span>Doctor</span></a></li>
+                <li><a href="bookingadmin.aspx"><span>Booking</span></a></li>
+                <li><a href="availablelist.aspx"><span>Availability</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- End of the tabs holder -->
+
+    <!-- This is the search box and login controls holder -->
+    <div class="articleboxouter">
+
+        <!-- Here's your stuff -->
+        
+
+            <!-- The search box and the button -->
+            &nbsp;
+
+            <!-- Lots of whitespace -->
+            &nbsp;&nbsp;&nbsp;&nbsp;
+                        
+            &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;
+
+            <!-- Here's your login controls -->
+           
+        <div class="userform">
+
+            <!-- The search box and the button -->
+            &nbsp;&nbsp;
+            <asp:LoginName ID="LoginName1" runat="server" FormatString="Welcome Admin {0}" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+            <asp:LoginView ID="LoginView1" runat="server">
+                <LoggedInTemplate>
+                    <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutPageUrl="~/Default.aspx" LogoutAction="Redirect" />
+                </LoggedInTemplate>
+            </asp:LoginView>
+
+            </div>
+           
+       
+    </div>
+&nbsp;<!-- Finally, here's the humble footer, holding your copyright --><asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <div id="footer">
+
+            Clinic Consultation Booking System (C) Copyright 2011 Wanie KMZ. 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final Year Project | 2011
+
+    </div>
+    <!-- End of footer -->
+
+</div>
+<!-- End of master container -->
+
+
+
+    <div>
+    </div>
+    </form>
+</body>
+</html>
